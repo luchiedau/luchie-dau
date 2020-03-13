@@ -7,7 +7,7 @@
   <body>
 
     <h1>LUCHIE PHOTOGRAPHY</h1>
-    <p><strong> Luchie photography is a family based company that strives for excelence.</p>
+    <p><strong> Luchie photography</strong> is a family based company that strives for excelence.</p>
 
   </body>
 </html>
